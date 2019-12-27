@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  icon: MyString
+  text: MyString
+  group_member_id: 
+  chat_room_id: 
+
+two:
+  icon: MyString
+  text: MyString
+  group_member_id: 
+  chat_room_id: 

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  group_member_id: 
+  group_question_id: 
+  reply_to_id: 
+  text: MyString
+  icon: MyString
+
+two:
+  group_member_id: 
+  group_question_id: 
+  reply_to_id: 
+  text: MyString
+  icon: MyString

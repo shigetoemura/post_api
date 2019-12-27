@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  group_member_id: 
+  opponent_user_id: 
+  notificable_type: 
+  notificable_id: 
+
+two:
+  group_member_id: 
+  opponent_user_id: 
+  notificable_type: 
+  notificable_id: 
